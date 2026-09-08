@@ -8,6 +8,18 @@
 [![Author](https://img.shields.io/badge/Maintained%20by-Daniyal%20Shahid-blue?style=for-the-badge&logo=github&logoColor=white)]()
 [![Batch](https://img.shields.io/badge/CYBERSTER-Batch%202-orange?style=for-the-badge)]()
 
+<br>
+
+<p align="center">
+  <a href="https://daniyalshshidportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Site-informational?style=for-the-badge" alt="Portfolio Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/daniyalshahid295/" target="_blank">
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_%26_Posts-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600px" alt="Hacker Animation"/>
 </p>
@@ -20,6 +32,20 @@
 
 ## 👨‍💻 Author & Maintainer
 This repository is meticulously documented, structured, and maintained by **Daniyal Shahid** as part of the **CYBERSTER Internship Batch 2 (Red Team Track)**. It serves as an official log of all weekly tasks, exploit scripts, lab notes, and professional penetration testing deliverables.
+
+- **🌐 Portfolio:** [Visit My Portfolio Website](https://daniyalshshidportfolio.netlify.app/)
+- **💼 LinkedIn:** [Connect on LinkedIn (Weekly Posts Log)](https://www.linkedin.com/in/daniyalshahid295/)
+
+---
+
+## 📄 Internship Credentials & Documents
+You can view or download the official verification documents related to this internship below:
+
+| Document Type | Status / File Link |
+| :--- | :--- |
+| **📜 Offer Letter** | [View Offer Letter](Weekly%20Tasks/Daniyal%20Shahid%20Cyberster%20Internship%20Offer%20Letter.pdf) |
+| **🎓 Completion Certificate** | [View Certificate](Weekly%20Tasks/Daniyal%20Shahid%20Cyberster%20Internship%20Certificate.pdf) |
+| **📑 Course Outline** | [View Outline](Weekly%20Tasks/Internship%20outline%20RED_BLUE_PURPLE%20__%2012%20weeks.pdf) |
 
 ---
 
