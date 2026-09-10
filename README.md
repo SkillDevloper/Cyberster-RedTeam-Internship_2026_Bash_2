@@ -8,7 +8,7 @@
 [![Author](https://img.shields.io/badge/Maintained%20by-Daniyal%20Shahid-blue?style=for-the-badge&logo=github&logoColor=white)]()
 [![Batch](https://img.shields.io/badge/CYBERSTER-Batch%202-orange?style=for-the-badge)]()
 
-<br>
+<!-- <br>
 
 <p align="center">
   <a href="https://daniyalshshidportfolio.netlify.app/" target="_blank">
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/daniyalshahid295/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_%26_Posts-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <!-- <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600px" alt="Hacker Animation"/> -->
@@ -37,6 +37,7 @@ This repository is meticulously documented, structured, and maintained by **Dani
 - **🌐 Portfolio:** [Visit My Portfolio Website](https://daniyalshshidportfolio.netlify.app/)
 - **💼 LinkedIn:** [Connect on LinkedIn (Weekly Posts Log)](https://www.linkedin.com/in/daniyalshahid295/)
 - **💼 Post Link's:** [All LinkedIn Post Links)](https://github.com/SkillDevloper/Cyberster-RedTeam-Internship_2026_Bash_2/blob/main/All_Linkedin_Post_Task_Links.txt)
+- **💼 CyberSter:** [LinkedIn Page)](https://www.linkedin.com/company/cyberster/)
 
 ---
 
