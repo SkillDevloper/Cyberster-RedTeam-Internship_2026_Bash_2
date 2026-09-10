@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600px" alt="Hacker Animation"/>
+  <!-- <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600px" alt="Hacker Animation"/> -->
+  <img src="https://github.com/SkillDevloper/Cyberster-RedTeam-Internship_2026_Bash_2/blob/main/Repository_banner.png" alt="Repository_banner_Image"/>
 </p>
 
 *“Offensive security is not just about breaking systems; it's about understanding how they fail so we can build them stronger.”*
