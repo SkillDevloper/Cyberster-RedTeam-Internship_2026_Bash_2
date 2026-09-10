@@ -36,6 +36,7 @@ This repository is meticulously documented, structured, and maintained by **Dani
 
 - **🌐 Portfolio:** [Visit My Portfolio Website](https://daniyalshshidportfolio.netlify.app/)
 - **💼 LinkedIn:** [Connect on LinkedIn (Weekly Posts Log)](https://www.linkedin.com/in/daniyalshahid295/)
+- **💼 Post Link's:** [All LinkedIn Post Links)](https://github.com/SkillDevloper/Cyberster-RedTeam-Internship_2026_Bash_2/blob/main/All_Linkedin_Post_Task_Links.txt)
 
 ---
 
